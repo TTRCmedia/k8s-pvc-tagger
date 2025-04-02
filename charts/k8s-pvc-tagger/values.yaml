@@ -86,6 +86,8 @@ debug: false
 extraEnvs: {}
 extraArgs: {}
 
+extraObjects: {}
+
 podLabels: {}
 
 dnsPolicy: ""
