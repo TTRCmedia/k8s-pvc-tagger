@@ -89,7 +89,7 @@ debug: false
 extraEnvs: {}
 extraArgs: {}
 
-extraObjects: {}
+extraObjects: []
 #  - apiVersion: cilium.io/v2
 #    kind: CiliumNetworkPolicy
 #    metadata:
